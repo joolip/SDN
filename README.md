@@ -1,5 +1,7 @@
 # SDN
 SDN projekti Overflow
+
+Tässä dokumentaatiossa käsitellään Jyväskylän Ammattikorkeakoulun IT-Instituutin SDN kontrolleri __Puikkarin__ integraatiota fyysiseen Raspberry verkkoon.
 <img src="https://cybertrust.labranet.jamk.fi/cf2017/overflow/raw/master/pictures/overflow_A3.png" width="800" />
 
 [Wiki](https://cybertrust.labranet.jamk.fi/cf2017/overflow/wikis/home)

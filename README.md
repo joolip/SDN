@@ -20,9 +20,9 @@ __[Final working solution](https://github.com/joolip/SDN/blob/master/FinalVersio
 
 ### Devices
 
-[Device versions](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/Random/versions.md)
+[Device versions](https://github.com/joolip/SDN/blob/master/Random/versions.md)
 
-[Devices needed](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/Random/devices.md)
+[Devices needed](https://github.com/joolip/SDN/blob/master/Random/devices.md)
 
 ### Case Zodiac & Raspberry
 

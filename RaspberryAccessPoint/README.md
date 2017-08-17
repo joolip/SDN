@@ -93,16 +93,16 @@ sudo /usr/sbin/hostapd /etc/hostapd/hostapd.conf
 
 If all configurations are ok, then you should see something like below:
 
-![AP-ENABLED](https://cybertrust.labranet.jamk.fi/cf2017/overflow/raw/master/pictures/hostapd-start.png)
+![AP-ENABLED](https://github.com/joolip/SDN/blob/master/pictures/hostapd-start.png)
 ### Crontab
 To start all these services when restarting Raspberry configure crontab to look like this.
-![Crontab -e](https://cybertrust.labranet.jamk.fi/cf2017/overflow/raw/master/pictures/crontab.png)
+![Crontab -e](https://github.com/joolip/SDN/blob/master/pictures/crontab.png)
 
 ### RC.local
 
 Also add these two lines to /etc/rc.local. These commands are run at the end of device starting process.
 
-![RC.local](https://cybertrust.labranet.jamk.fi/cf2017/overflow/raw/master/pictures/rclocal.png)
+![RC.local](https://github.com/joolip/SDN/blob/master/pictures/rclocal.png)
 
 ### Create virtual interface with vlan-tag
 

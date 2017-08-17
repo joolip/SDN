@@ -8,15 +8,15 @@ Tässä dokumentaatiossa käsitellään Jyväskylän Ammattikorkeakoulun IT-Inst
 
 # Final working solution
 
-__[Final working solution](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/FinalVersion/README.md)__
+__[Final working solution](https://github.com/joolip/SDN/blob/master/FinalVersion/README.md)__
 
 [Puikkari installation](https://cybertrust.labranet.jamk.fi/cf2017/overflow/wikis/puikkari/installation)
 
 ### Configurations
 
-[Cisco configuration](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/Cisco/README.md)
+[Cisco configuration](https://github.com/joolip/SDN/blob/master/Cisco/README.md)
 
-[PfSense configuration summary](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/PfSense/final.md)
+[PfSense configuration summary](https://github.com/joolip/SDN/blob/master/PfSense/final.md)
 
 ### Devices
 
@@ -26,19 +26,19 @@ __[Final working solution](https://cybertrust.labranet.jamk.fi/cf2017/overflow/b
 
 ### Case Zodiac & Raspberry
 
-[Case Zodiac FX](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/ZodiacFX/README.md)
+[Case Zodiac FX](https://github.com/joolip/SDN/blob/master/ZodiacFX/README.md)
 
-[Zodiac FX configuration](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/ZodiacFX/Zodiac_conf.txt)
+[Zodiac FX configuration](https://github.com/joolip/SDN/blob/master/ZodiacFX/Zodiac_conf.txt)
 
-[Old Raspberry Pi case with inbound management](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/OldCase/README.md)
+[Old Raspberry Pi case with inbound management](https://github.com/joolip/SDN/blob/master/OldCase/README.md)
 
 ### Random
 
-[SLA](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/pictures/SLA-Overflow.pdf)
+[SLA](https://github.com/joolip/SDN/blob/master/pictures/SLA-Overflow.pdf)
 
-[Overflow Business Plan](https://cybertrust.labranet.jamk.fi/cf2017/overflow/raw/master/pictures/business_plan.jpg)
+[Overflow Business Plan](https://github.com/joolip/SDN/blob/master/pictures/business_plan.jpg)
 
-[Network To IoTitude](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/IoTitudeNetwork/README.md)
+[Network To IoTitude](https://github.com/joolip/SDN/blob/master/IoTitudeNetwork/README.md)
 
 [WIMMA Lab](https://wimmalab.github.io/)
 

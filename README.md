@@ -11,6 +11,14 @@ You have opened documentation of SDN project which took place at summer 2017 in 
 
 [Wiki](https://cybertrust.labranet.jamk.fi/cf2017/overflow/wikis/home)
 
+# Workers of the Company
+
+|  |Name|Title|LinkedIn|   |Name|Title|LinkedIn|
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|<img src="https://github.com/joolip/SDN/blob/master/pictures/antti.jpg" width="120" />|Antti Lohtaja|Junior Full Stack Developer|[LinkedIn](https://www.linkedin.com/in/antti-lohtaja-528201133/)|<img src="https://github.com/joolip/SDN/blob/master/pictures/jani.jpg" width="120" />|Jani Kerttula|Junior Front-End Developer|[LinkedIn](https://www.linkedin.com/in/jani-kerttula-54938b12b/)
+|<img src="https://github.com/joolip/SDN/blob/master/pictures/joonas.jpg" width="120" />|Joonas Lipponen|Junior SDN Developer|[LinkedIn](https://www.linkedin.com/in/joonas-l-8994b2143/)|<img src="https://github.com/joolip/SDN/blob/master/pictures/mikael.jpg" width="120" />|Mikael Malste|Junior SDN Developer|[LinkedIn](https://www.linkedin.com/in/mikael-malste-999bb3143/)
+|<img src="https://github.com/joolip/SDN/blob/master/pictures/onni.jpg" width="120" />|Onni Hakkari|Junior Back-End Developer|[LinkedIn](https://www.linkedin.com/in/onni-hakkari-802190130/)|<img src="https://github.com/joolip/SDN/blob/master/pictures/toni.jpg" width="120" />|Toni Tanninen|Junior SDN Developer|[LinkedIn](https://www.linkedin.com/in/toni-tanninen-161262144/)|
+
 # Final working solution
 
 __[Final working solution](https://github.com/joolip/SDN/blob/master/FinalVersion/README.md)__

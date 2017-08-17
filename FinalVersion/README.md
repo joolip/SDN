@@ -109,7 +109,7 @@ You can find Raspberry-Pi Access-Points installation instructions [here](https:/
 
 You can watch the video [here](https://github.com/joolip/SDN/blob/master/pictures/Wlan_cp_connection.mp4).
 
-__[Here](https://github.com/joolip/SDN/blob/master/pictures/final_optimization.ogv) you can watch how links are optimized between different traffic.__
+__[Here](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/pictures/final_optimization.ogv) you can watch how links are optimized between different traffic.__
 
 ![Final links](https://github.com/joolip/SDN/blob/master/pictures/final_links.png)
 

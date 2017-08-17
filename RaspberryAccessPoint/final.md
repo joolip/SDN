@@ -1,7 +1,7 @@
 # Access-Point 2 configuration
 
 
-__To issue these commands, you need to install [openvswitch](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/RaspberryAccessPoint/README.md#openvswitch-installation) and [hostapd](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/RaspberryAccessPoint/README.md#hostapd-configuration) first.__
+__To issue these commands, you need to install [openvswitch](https://github.com/joolip/SDN/blob/master/RaspberryAccessPoint/README.md#openvswitch-installation) and [hostapd](https://github.com/joolip/SDN/blob/master/RaspberryAccessPoint/README.md#hostapd-configuration) first.__
 
 Create openvswitch bridge using commands below. Include interfaces eth1 and wlan0 to this bridge.
 

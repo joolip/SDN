@@ -5,7 +5,7 @@ By doing this we were able to isolate issue caused by VLANs, and focus on WLAN i
 
 We also configured RADIUS authentication and Captive Portal- services running on PfSense.
 
-![Topology](https://cybertrust.labranet.jamk.fi/cf2017/overflow/raw/master/pictures/topologia4.png)
+![Topology](https://github.com/joolip/SDN/blob/master/pictures/topologia4.png)
 
 ### Devices
 

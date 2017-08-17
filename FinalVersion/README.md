@@ -107,5 +107,16 @@ You can find Raspberry-Pi Access-Points installation instructions [here](https:/
 
 # Video taken from login and testing network
 
-You can watch the video [here](https://cybertrust.labranet.jamk.fi/cf2017/overflow/raw/master/pictures/Wlan_cp_connection).
+You can watch the video [here](https://github.com/joolip/SDN/blob/master/pictures/Wlan_cp_connection.mp4).
 
+__[Here](https://github.com/joolip/SDN/blob/master/pictures/final_optimization.ogv) you can watch how links are optimized between different traffic.__
+
+![Final links](https://github.com/joolip/SDN/blob/master/pictures/final_links.png)
+
+Colors indicate how much traffic is going through the links.
+
+### Demo
+
+Demo video can be viewed from YouTube.
+
+[![Demo](https://img.youtube.com/vi/EUBPUdrJnrI/0.jpg)](https://www.youtube.com/watch?v=EUBPUdrJnrI "Puikkari Demo")

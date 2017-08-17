@@ -9,7 +9,7 @@ You have opened documentation of SDN project which took place at summer 2017 in 
 
 <img src="https://cybertrust.labranet.jamk.fi/cf2017/overflow/raw/master/pictures/overflow_A3.png" width="800" />
 
-From wikipage you can see full team of Overflow.
+From wikipage you can see information of myself (Joonas) and as well other workers.
 
 [Wiki](https://cybertrust.labranet.jamk.fi/cf2017/overflow/wikis/home)
 

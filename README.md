@@ -5,7 +5,7 @@ Tässä dokumentaatiossa käsitellään Jyväskylän Ammattikorkeakoulun IT-Inst
 
 You have opened documentation of SDN controller Puikkari which is developed at Jyväskylä University of Applied Sciences. Documentation shows how controller is integrated to __Raspberry Pi__ switch network and how traffic __optimization__ is done by SDN controller.
 
-### __Enjoy__
+### __Enjoy!__
 
 <img src="https://cybertrust.labranet.jamk.fi/cf2017/overflow/raw/master/pictures/overflow_A3.png" width="800" />
 

@@ -9,13 +9,13 @@ We also configured RADIUS authentication and Captive Portal- services running on
 
 ### Devices
 
-List of devices needed. You can find used versions from __[here](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/Random/versions.md).__
+List of devices needed. You can find used versions from __[here](https://github.com/joolip/SDN/blob/master/Random/versions.md).__
 
-* [Cisco Catalyst 2950 Switch](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/Cisco/README.md)
-* [PfSense Firewall](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/PfSense/final.md)
+* [Cisco Catalyst 2950 Switch](https://github.com/joolip/SDN/blob/master/Cisco/README.md)
+* [PfSense Firewall](https://github.com/joolip/SDN/blob/master/PfSense/README.md)
 * [Puikkari SDN-controller](https://cybertrust.labranet.jamk.fi/cf2017/overflow/wikis/puikkari/installation)
-* [3 Raspberry Pi Switches](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/RaspberrySwitches/README.md)
-* [2 Raspberry Pi Access-Points](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/RaspberryAccessPoint/final.md)
+* [3 Raspberry Pi Switches](https://github.com/joolip/SDN/blob/master/RaspberrySwitches/README.md)
+* [2 Raspberry Pi Access-Points](https://github.com/joolip/SDN/blob/master/RaspberryAccessPoint/README.md)
 
 ## Puikkari installation
 
@@ -23,12 +23,12 @@ You can find Puikkari installation documentation from [here](https://cybertrust.
 
 ## PfSense installation
 
-You can find PfSense installation documentation from [here](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/PfSense/summary.md).
+You can find PfSense installation documentation from [here](https://github.com/joolip/SDN/blob/master/PfSense/summary.md).
 
 ## Raspberry-Pi switches installation
 
 First you have to install NOOBS to your Raspberry Pi. [Here](https://www.raspberrypi.org/help/noobs-setup/2/) is simple instructions for install process. 
-You can find Raspberry-Pi switch installation instructions [here](https://cybertrust.labranet.jamk.fi/cf2017/overflow/tree/master/RaspberrySwitches#raspberry-pi-switches-installation).
+You can find Raspberry-Pi switch installation instructions [here](https://github.com/joolip/SDN/tree/master/RaspberrySwitches#raspberry-pi-switches-installation).
 
 __New front-end (Puikkari) port configurations can be found below.__
 
@@ -36,7 +36,7 @@ __New front-end (Puikkari) port configurations can be found below.__
 
 Open Puikkari front-end from your browser. Address is your network interfaces address. For example in this documentation the address is 192.168.51.133.
 
-<img src="https://cybertrust.labranet.jamk.fi/cf2017/overflow/raw/master/pictures/interface_conf.png" width="600" />
+<img src="https://github.com/joolip/SDN/blob/master/pictures/interface_conf.png" width="600" />
 
 You can edit port configurations by double clicking the switch.
 
@@ -81,7 +81,7 @@ You can edit port configurations by double clicking the switch.
 ## Raspberry-Pi Access-Points installation
 
 First you have to install NOOBS to your Raspberry Pi. [Here](https://www.raspberrypi.org/help/noobs-setup/2/) is simple instructions for install process.
-You can find Raspberry-Pi Access-Points installation instructions [here](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/master/RaspberryAccessPoint/final.md).
+You can find Raspberry-Pi Access-Points installation instructions [here](https://github.com/joolip/SDN/blob/master/RaspberryAccessPoint/final.md).
 
 ### IP-Addresses
 

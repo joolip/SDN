@@ -2,6 +2,11 @@
 SDN projekti Overflow
 
 Tässä dokumentaatiossa käsitellään Jyväskylän Ammattikorkeakoulun IT-Instituutin kehittämää SDN kontrolleri __Puikkarin__ integraatiota fyysiseen Raspberry pi-kytkin verkkoon. 
+
+You have opened documentation of SDN controller Puikkari which is developed at Jyväskylä University of Applied Sciences. Documentation shows how controller is integrated to __Raspberry Pi__ switch network and how traffic __optimization__ is done by SDN controller.
+
+###__Enjoy.__
+
 <img src="https://cybertrust.labranet.jamk.fi/cf2017/overflow/raw/master/pictures/overflow_A3.png" width="800" />
 
 [Wiki](https://cybertrust.labranet.jamk.fi/cf2017/overflow/wikis/home)

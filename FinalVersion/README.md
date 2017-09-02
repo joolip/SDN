@@ -38,6 +38,7 @@ __New front-end (Puikkari) port configurations can be found below.__
 
 Open Puikkari front-end from your browser. Address is your network interfaces address. For example in this documentation the address is 192.168.51.133.
 
+
 <img src="https://github.com/joolip/SDN/blob/master/pictures/interface_conf.png" width="600" />
 
 You can edit port configurations by double clicking the switch.

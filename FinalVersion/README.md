@@ -1,9 +1,11 @@
 # Final topology
 
-Final working solution was to separate Management and Data interfaces to their own physical network interfaces.
+Earlier on this project we have had problems with so called inbound-connection between access-point and SDN-switch where SDN management connection and Data traffic is wrapped to one solid cable. So we decided to separate these two networks to Management and Data interfaces to their own physical network interfaces.
 By doing this we were able to isolate issue caused by VLANs, and focus on WLAN implementation.
 
 We also configured RADIUS authentication and Captive Portal- services running on PfSense.
+
+In the topology below there are two separate networks Management which comes from controller through Cisco switch and controls the functionalities like routing of SDN-switch. And there are Data network which in this case implements user traffic from wireless access points.
 
 ![Topology](https://github.com/joolip/SDN/blob/master/pictures/topologia4.png)
 

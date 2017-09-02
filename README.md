@@ -14,9 +14,9 @@ From wikipage you can see information of myself (Joonas) and as well other worke
 [Wiki](https://cybertrust.labranet.jamk.fi/cf2017/overflow/wikis/home)
 
 
-# Final working solution
+# Solution
 
-__[Final working solution](https://github.com/joolip/SDN/blob/master/FinalVersion/README.md)__
+__[To solution ](https://github.com/joolip/SDN/blob/master/FinalVersion/README.md)__
 
 [Puikkari installation](https://cybertrust.labranet.jamk.fi/cf2017/overflow/wikis/puikkari/installation)
 

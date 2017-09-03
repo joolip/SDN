@@ -1,7 +1,7 @@
 # SDN
 SDN projekti Overflow
 
-Tässä dokumentaatiossa käsitellään Jyväskylän Ammattikorkeakoulun IT-Instituutin kehittämää SDN kontrolleri __Puikkarin__ integraatiota fyysiseen Raspberry pi-kytkin verkkoon. 
+Tässä dokumentaatiossa käsitellään Jyväskylän Ammattikorkeakoulun IT-Instituutin kehittämää SDN kontrolleri __Puikkarin__ integraatiota Raspberry pi-kytkin verkkoon. 
 
 You have opened documentation of SDN project which took place at summer 2017 in Jyväskylä University of Applied Sciences. Documentation shows how controller (__Puikkari__ developed by students) is integrated to __Raspberry Pi__ switch network and how traffic __optimization__ is done by SDN controller.
 

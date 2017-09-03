@@ -116,7 +116,7 @@ __[Here is video](https://cybertrust.labranet.jamk.fi/cf2017/overflow/blob/maste
 
 ![Final links](https://github.com/joolip/SDN/blob/master/pictures/final_links.png)
 
-Colors indicate how much traffic is going through the links. 
+Basicly we tested optimization by using two smartphones connected to one access point AP1. One device connected to AP1 started to download 1 GB null file from file server attached to AP2 and the other viewed video from web. File download travelled from longer path to AP2 and other phone used low latency path straight to switch connected to PfSense. Colors indicate how much traffic is going through the links. 
 
 ### Demo
 

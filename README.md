@@ -5,7 +5,7 @@ Tässä dokumentaatiossa käsitellään Jyväskylän Ammattikorkeakoulun IT-Inst
 
 You have opened documentation of SDN project which took place at summer 2017 in Jyväskylä University of Applied Sciences. Documentation shows how controller (__Puikkari__ developed by students) is integrated to __Raspberry Pi__ switch network and how traffic __optimization__ is done by SDN controller.
 
-### __Enjoy!__
+
 
 <img src="https://cybertrust.labranet.jamk.fi/cf2017/overflow/raw/master/pictures/overflow_A3.png" width="800" />
 

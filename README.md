@@ -42,8 +42,6 @@ __[To solution ](https://github.com/joolip/SDN/blob/master/FinalVersion/README.m
 
 ### Random
 
-[SLA](https://github.com/joolip/SDN/blob/master/pictures/SLA-Overflow.pdf)
-
 [Overflow Business Plan](https://github.com/joolip/SDN/blob/master/pictures/business_plan.jpg)
 
 [Network To IoTitude](https://github.com/joolip/SDN/blob/master/IoTitudeNetwork/README.md)
